@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: The bigger the challenge, the better the sprint
 ---
 
 <h4>The bigger the challenge, the better the sprint</h4>
