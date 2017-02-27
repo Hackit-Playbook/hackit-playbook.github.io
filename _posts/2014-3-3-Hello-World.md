@@ -14,7 +14,7 @@ Helping generate good solutions, quickly
 3. Just plain stuck
 Generate a fresh approach to problem solving
 
-<h3>Setting up the team</h3>
+<h4>Setting up the team</h4>
 Ensure a decision maker is on the team. Sell it in the following terms:
 
 <ol><li> We’ll make rapid progress</li>
@@ -33,7 +33,7 @@ The ideal team is seven people or fewer. Try to put together people who don’t 
 
 Pick a facilitator, and try to find a troublemaker. If you need extra experts, schedule them for day one. 
 
-<h3>Time and space </h3>
+<h4>Time and space </h4>
 Block five full days in the calendar
 Allow no devices in the room - it’s ok to leave to check a device 
 You’ll need:
