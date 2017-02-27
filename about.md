@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Home
+permalink: /HackIt service design tactics manual/
 ---
 This tactics manual helps you take a problem and start to solve it, using the principles of service design.
 
