@@ -3,9 +3,9 @@ layout: page
 title: HackIt service design tactics manual
 permalink: /about/
 ---
-This tactics manual helps you take a problem and start to solve it, using the principles of service design.
+This tactics manual helps you take a problem and start to solve it, using the principles of [service design](https://en.wikipedia.org/wiki/Service_design).
 
-Why
+<h3>Why</h3>
 
 When faced with a problem, we have traditionally asked individuals to develop a proposal for a project to fix the problem. It can take time before work begins, and we do not always know the best solution for a project.
 
@@ -13,10 +13,11 @@ This manual is rooted in an alternative approach: working in small teams to exam
 
 The benefits of this approach are:
 
-Working faster - developing key elements of a solution in days
-Reducing risk, checking an approach at low cost and learning about what works before making a larger investment
-Improve outcomes, particularly where user behaviour is critical, by defining how a successful approach needs to work
-How
+<ul><li><b>Working faster</b> - developing key elements of a solution in days</li>
+<li><b>Reducing risk,</b> checking an approach at low cost and learning about what works before making a larger investment</li>
+<li><b>Improve outcomes,</b> particularly where user behaviour is critical, by defining how a successful approach needs to work</li></ul>
+
+<h3>How</h3>
 
 You can also use any one of the tactics to help a team work together to understand a problem, develop hypotheses to solve it and then test solutions rapidly with users. We have used each of these tactics on previous service design projects, and collated them in a single manual. You’ll want to use different tactics at different times on a project in order to help build a team and ensure it works efficiently to tackle complex problems.
 
