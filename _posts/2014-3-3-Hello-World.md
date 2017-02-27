@@ -29,7 +29,7 @@ The ideal team is seven people or fewer. Try to put together people who don’t 
 <li>Comms expert</li>
 <li>Frontline staff expert</li>
 <li> user expert</li>
-<li>Design expert</li> </ol>
+<li>Design expert</li></ol>
 
 Pick a facilitator, and try to find a troublemaker. If you need extra experts, schedule them for day one. 
 
