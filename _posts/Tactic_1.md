@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tactic #1 : Defining your challenge
+title: Tactic /#1 : Defining your challenge
 ---
 
 <h2>The bigger the challenge, the better the sprint</h2>
