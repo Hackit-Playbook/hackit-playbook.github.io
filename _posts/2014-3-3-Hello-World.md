@@ -17,19 +17,19 @@ Generate a fresh approach to problem solving
 <h3>Setting up the team</h3>
 Ensure a decision maker is on the team. Sell it in the following terms:
 
-# We’ll make rapid progress
-# It’s an experiment
-# Explain what you will sacrifice to do this (in terms of existing commitments)
-# It’s about focus
+<ol><li> We’ll make rapid progress</li>
+<li> It’s an experiment</li>
+<li> Explain what you will sacrifice to do this (in terms of existing commitments)</li>
+<li> It’s about focus</li> </ol>
 
 The ideal team is seven people or fewer. Try to put together people who don’t usually work together. Consider the following roles:
-# Decider
-# Decider
-# Policy expert
-# Comms expert
-# Frontline staff expert
-# user expert
-# Design expert
+<ol><li> Decider
+<li> Decider
+<li>Policy expert
+<li>Comms expert
+<li>Frontline staff expert
+<li> user expert
+<li>Design expert</li> </ol>
 
 Pick a facilitator, and try to find a troublemaker. If you need extra experts, schedule them for day one. 
 
