@@ -3,7 +3,7 @@ layout: post
 title: You're up and running!
 ---
 
-<h3>The bigger the challenge, the better the sprint</h3>
+The bigger the challenge, the better the sprint
 
 For example
 1, High stakes - a big problem which is likely to require considerable investment of time and money to solve. A sprint can check the direction of travel to reduce risks of heading off in the wrong direction
