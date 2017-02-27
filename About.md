@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about
+title: HackIt service design tactics manual
 permalink: /about/
 ---
 This tactics manual helps you take a problem and start to solve it, using the principles of service design.
