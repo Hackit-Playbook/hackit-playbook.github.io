@@ -53,12 +53,13 @@ var myRating = rating(el, currentRating, maxRating, callback); alert('sai');</sc
 
     <div id="main" role="main" class="container">
       {{ content }}
+        <script> myRating.setRating(3, true);</script>
     </div>
 
     <div class="wrapper-footer">
       <div class="container">
         <footer class="footer">
-          <script> myRating.setRating(3, true);</script>
+        
 
           {% include svg-icons.html %}
         </footer>
