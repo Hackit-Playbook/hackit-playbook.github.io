@@ -5,11 +5,13 @@ permalink: /about/
 ---
 This tactics manual helps you take a problem and start to solve it, using the principles of [service design](https://en.wikipedia.org/wiki/Service_design).
 
+WE’ve used all of the tactics before, most of which have been borrowed from organisations like 
+
 <h3>Why</h3>
 
-When faced with a problem, we have traditionally asked individuals to develop a proposal for a project to fix the problem. It can take time before work begins, and we do not always know the best solution for a project.
+When faced with a problem, we have traditionally asked individuals to develop a proposal for a project to fix the problem. It can take time before work begins to really understand the problem, and we define the solution without certainty about whether it will work. 
 
-This manual is rooted in an alternative approach: working in small teams to examine a problem from multiple perspectives, developing multiple hypotheses which are tested by developing rapid ‘prototypes’.
+This manual is rooted in an alternative approach: working in small teams to examine a problem from multiple perspectives, developing multiple hypotheses which are then tested by developing rapid ‘prototypes’. These prototypes help us find the right solution, reducing the risk that our initial ideas won’t succeed. 
 
 The benefits of this approach are:
 
@@ -23,4 +25,4 @@ You can also use any one of the tactics to help a team work together to understa
 
 You can combine most of these tactics to run a 5-day mini project, known as a ‘Google Sprint’. This is a device used by Google Ventures to deliver rapid improvements to a product or service.
 
-Whilst these tactics are focused on delivering solutions that have an element of technology, they have been used successfully for many different forms of product and service development in government and the private sector.
+Whilst these tactics are focused on delivering solutions that have an element of technology, they have been used successfully for many different forms of product and service development in government and the private sector. 
