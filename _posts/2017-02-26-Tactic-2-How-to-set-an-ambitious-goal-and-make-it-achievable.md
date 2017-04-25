@@ -8,9 +8,7 @@ Than
 "A website that tells residents everything they need to know so that they don’t pick up the phone or write to us."
 
 Because:
-<ul><li>It refers to an outcome (self-serve online) rather than an output (a website)</li> 
-<li>It reflects <i>why </i>people will change behaviour (confidence and trust) rather than just <i>what </i>they will do differently (picking up the phone)</li> 
-<li>It avoids guessing what the solution might look like</li></ul>
+<ul><li>It refers to an outcome (self-serve online) rather than an output (a website)</li><li>It reflects <i>why </i>people will change behaviour (confidence and trust) rather than just <i>what </i>they will do differently (picking up the phone)</li><li>It avoids guessing what the solution might look like</li></ul>
 
 If you're working on a project with a clear brief, it may be better to agree<a href='https://docs.google.com/document/d/1sJ7AEC23vXTMrUNZXCNV9NsiYhhRmG1KDEQWzF5W8nA/edit#heading=h.xk84ndmzzg82'> a vision statement</a>.
 
