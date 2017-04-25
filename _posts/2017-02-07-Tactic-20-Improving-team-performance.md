@@ -55,6 +55,10 @@ A4 and A3 paper
 
 <h3>For inspiration</h3>
 <a href="https://zapier.com/blog/google-ventures-design-sprint/">How Zapier uses Google Sprints</a>
+
 <a href="https://blog.practicalservicedesign.com/speed-up-your-team-with-a-service-blueprint-399a011121a">Speed up your team with a service blueprint</a>
+
 <a href="http://www.bbc.co.uk/blogs/internet/entries/4c06d6ef-3d11-4897-9588-7a55deaa1f32">Service design at the BBC</a>
+
+
 <strong>The timetable </strong>
