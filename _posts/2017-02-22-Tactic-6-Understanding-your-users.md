@@ -10,4 +10,5 @@ Ask participants to introduce their persona to the group and present their thoug
 
 <h4>For inspiration</h4>
 An <a href="https://drive.google.com/open?id=0B0tr28lhzP30eUVEaldSVUhTUTQ">example persona</a>
+
 <a href="https://medium.com/@arnevanoosterom/personas-journey-mapping-some-thoughts-on-implementing-design-thinking-7a546140facc#.gsr85v4jz">Personas and user journeys in design thinking</a>
