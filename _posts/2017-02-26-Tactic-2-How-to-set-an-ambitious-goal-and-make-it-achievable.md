@@ -17,7 +17,7 @@ If you're working on a project with a clear brief, it may be better to agree<a h
 <h4>Make it achievable</h4>
 Once you've set the goal
 <ol><li>What questions do we want to answer in this sprint?</li>
-<li>To meet our long term goal, what has to be true?</li> 
+<li>To meet our long term goal, what has to be true?</li>
 <li>Imagine at the end of the project, we've failed. What caused that?</li>
 </ol>
 Rephrase assumptions and obstacles as questions.
