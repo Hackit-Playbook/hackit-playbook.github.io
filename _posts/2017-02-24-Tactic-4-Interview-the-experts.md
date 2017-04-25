@@ -1,7 +1,7 @@
 You can accelerate your understanding by interviewing just four different experts. Try to interview them as a group to develop a shared understanding. If that’s not possible, then make sure the interviewer presents the findings to the group.
 
 Interview the project sponsor. Understand:
-<li>What will make this project a success?</li>  <li>What’s our unique advantage or opportunity?</li>  <li>What’s the biggest risk?</li></ul>
+<ul><li>What will make this project a success?</li>  <li>What’s our unique advantage or opportunity?</li>  <li>What’s the biggest risk?</li></ul>
 
 Understand the customer:
 <ul><li>What are they doing currently to solve this problem?</li>  <li>Where are the key pain points?</li></ul>
