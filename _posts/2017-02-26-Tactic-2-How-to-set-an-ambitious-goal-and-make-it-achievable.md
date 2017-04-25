@@ -6,6 +6,7 @@ Effective goals will normally define an outcome rather than an output. For examp
 Than
 
 "A website that tells residents everything they need to know so that they don’t pick up the phone or write to us."
+
 Rephrase assumptions and obstacles as questions.
 <ul><li>It refers to an outcome (self-serve online) rather than an output (a website)</li> 
 <li>It reflects <i>why </i>people will change behaviour (confidence and trust) rather than just <i>what </i>they will do differently (picking up the phone)</li> 
