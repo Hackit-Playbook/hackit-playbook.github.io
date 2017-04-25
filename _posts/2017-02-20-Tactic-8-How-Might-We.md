@@ -7,4 +7,5 @@ Each person writes their own notes, one at a time on different Post-Its. Each Po
 Organise the notes in themes or groups on the wall. Give each theme or group a label.
 
 For inspiration
+
 <a href='https://photos.google.com/share/AF1QipNcdhoSnPMdTN0_hvhAJJFrsaxswzTq2EFa0SBAdi1FY91G_DjYkeOq-6CGnJZT6g?key=Sk5IQ3Y4R1VKOWVsYkhBdjE2QXJFVkU5OE9wMnhn'>Example</a> of 'How Might We' in Hackney's housing service
