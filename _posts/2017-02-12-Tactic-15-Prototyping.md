@@ -6,5 +6,5 @@ Sometimes, startup companies will have just a webpage which ‘pitches’ the pr
 
 <h3>For inspiration</h3>
 <a href='https://speakerdeck.com/stephengill/prototyping-for-dummies'>Prototyping for dummies</a> <br/>
-<a href='https://designnotes.blog.gov.uk/2016/10/03/how-to-prototype-in-the-browser/'>How to prototype in your web browser</a>
+<a href='https://designnotes.blog.gov.uk/2016/10/03/how-to-prototype-in-the-browser/'>How to prototype in your web browser</a><br/>
 <a href='https://medium.com/ideo-stories/chatbots-ultimate-prototyping-tool-e4e2831967f3#.wzcn2cuvf'>Prototyping through chatbots</a>
