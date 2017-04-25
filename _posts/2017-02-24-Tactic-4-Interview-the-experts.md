@@ -10,7 +10,7 @@ Understand the subject matter expert:
 <ul><li>What are the constraints of legislation or policy?</li><li>What are the opportunities and challenges of existing technology solutions, service design and regulatory arrangements?</li></ul>
 
 Understand previous efforts:
-<ul><li>What have we already tried?</li>  <li>To what extent has it worked and what can we understand from previous attempts?</li><li>Why does the problem remain?</li></ul>
+<ul><li>What have we already tried?</li><li>To what extent has it worked and what can we understand from previous attempts?</li><li>Why does the problem remain?</li></ul>
 
 There are key rules to sharing the outputs:
 <ul><li>Iterate your existing work, making sure the interviews add colour and detail to your other work - eg amend the map</li><li>Make the findings visible - eg key statistics on the wall, key quotes</li><li>Share it across the team - present your findings</li></ul>
