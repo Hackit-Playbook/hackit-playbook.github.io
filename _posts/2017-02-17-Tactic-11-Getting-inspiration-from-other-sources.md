@@ -10,6 +10,7 @@ Each person who suggested a product or service should give a brief presentation 
 
 <h4>Capture big ideas</h4>Write on the whiteboard the big ideas behind the products that might be useful. Make a quick sketch of that inspiring component, write a simple headline above it and note the source underneath.
 
+
 When set alongside your map, you’ve now got:
 <ul><li>an initial area of focus,</li>
 <li>insights about what matters most, what we already know, and what constraints we face</li>
